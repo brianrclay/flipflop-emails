@@ -1,0 +1,75 @@
+<mjml>
+  <mj-body background-color="#F8F9FB">
+    <mj-section>
+      <mj-column background-color="#ffffff" border-radius="8px">
+        <mj-divider border-color="#0070C0" padding="0"></mj-divider>
+				<!--Logo Start-->
+        <mj-image src="https://flipflop-emails.netlify.app/images/Logo.png" width="58px" align="left" padding="34px 24px 24px"></mj-image>
+        <!--Logo End-->
+        <!--Headline Start-->
+        <mj-text color="#121417" font-size="24px" font-weight="800" font-family="Arial" padding="0 24px 16px">Here's your receipt</mj-text>
+        <!--Headline End-->
+        <!--Body Text Start-->
+        <mj-text align="left" font-size="14px" line-height="20px" letter-spacing=".3px" color="#49505A" font-family="Arial" padding="0 24px 0"><a href="#" style="color: #0070C0; font-weight: bold; text-decoration: none;">Track order</a>  |  <a href="#" style="color: #0070C0; font-weight: bold; text-decoration: none;">View reciept in app</a></mj-text>
+        <!--Body Text End-->
+        <mj-divider border-color="#CDD3DD" border-width="1px" padding="24px 0 24px"></mj-divider>
+        <!--Item Header Start-->
+        <mj-table padding="0 24px 8px">
+          <tr>
+            <td style="padding: 0 0 0 0; font-size: 16px; line-height: 20px; font-weight: bold;">1 Steak taco</td>
+            <td style="padding: 0 0 0 0; font-size: 16px; line-height: 20px; font-weight: bold; align:right; text-align: right;">$5.45</td>
+          </tr>
+        </mj-table>
+        <!--Item Header End-->
+        <!-- Item Details Start -->
+        <mj-text color="#6A7381" font-size="14px" line-height="16px" font-family="Arial" padding="4px 24px">Add cheese</mj-text>
+        <mj-text color="#6A7381" font-size="14px" line-height="16px" font-family="Arial" padding="4px 24px">No tomatoes please</mj-text>
+        <mj-divider border-color="#CDD3DD" border-width="1px" padding="20px 24px 24px"></mj-divider>
+        <!-- Item Details End -->
+        <!--Item Header Start-->
+        <mj-table>
+          <tr>
+            <td style="padding: 0 0 0 0; font-size: 16px; line-height: 20px; font-weight: bold;">2 Chicken Burrito</td>
+            <td style="padding: 0 0 0 0; font-size: 16px; line-height: 20px; font-weight: bold; align:right; text-align: right;">$15.67</td>
+          </tr>
+        </mj-table padding="0 24px 8px">
+        <!--Item Header End-->
+        <!-- Item Details Start -->
+        <mj-divider border-color="#CDD3DD" border-width="1px" padding="20px 24px 24px"></mj-divider>
+        <!-- Item Details End -->
+        <!-- Price Breakdown Start -->
+        <mj-table>
+          <tr>
+            <td style="padding: 0 0 12px 0; font-size: 16px; line-height: 20px;">Subtotal</td>
+            <td style="padding: 0 0 12px 0; font-size: 16px; line-height: 20px; align:right; text-align: right;">$21.12</td>
+          </tr>
+          <tr>
+            <td style="padding: 0 0 12px 0; font-size: 16px; line-height: 20px;">Delivery</td>
+            <td style="padding: 0 0 12px 0; font-size: 16px; line-height: 20px; align:right; text-align: right;">$6.99</td>
+          </tr>
+          <tr>
+            <td style="padding: 0 0 0 0; font-size: 16px; line-height: 20px;">Taxes and fees</td>
+            <td style="padding: 0 0 0 0; font-size: 16px; line-height: 20px; align:right; text-align: right;">$2.99</td>
+          </tr>
+        </mj-table>
+        <mj-divider border-color="#CDD3DD" border-width="1px" padding="16px 24px 16px"></mj-divider>
+        <!-- Price Breakdown End -->
+        <!-- Price Total Start -->
+        <mj-table>
+          <tr>
+            <td style="padding: 0 0 0 0; font-size: 16px; line-height: 20px; font-weight: bold;">Total</td>
+            <td style="padding: 0 0 0 0; font-size: 16px; line-height: 20px; font-weight: bold; align:right; text-align: right;">$31.10</td>
+          </tr>
+        </mj-table>
+        <!-- Price Total End -->
+        <!-- CTA Button Start -->
+        <mj-button href="#" align="center" width="100%" padding="24px 24px 0" border-radius="4px" background-color="#0070C0" line-height="20px" font-size="16px" font-family="Arial" font-weight="bold">Track order</mj-button>
+        <!-- CTA Button End -->
+        <!--Footer Start-->
+        <mj-divider border-color="#CDD3DD" border-width="1px" padding="40px 0 24px"></mj-divider>
+        <mj-text align="center" font-size="14px" line-height="20px" letter-spacing=".3px" color="#6A7381" font-family="Arial" padding="0 24px 24px">© FlipFlops</mj-text>
+        <!--Footer End-->
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
