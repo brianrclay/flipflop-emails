@@ -4,7 +4,7 @@
       <mj-column background-color="#ffffff" border-radius="8px">
         <mj-divider border-color="#0070C0" padding="0"></mj-divider>
 				<!--Logo Start-->
-        <mj-image src="https://i.imgur.com/CFZGUni.png" width="58px" align="left" padding="34px 24px 24px"></mj-image>
+        <mj-image src="https://flipflop-emails.netlify.app/images/Logo.png" width="58px" align="left" padding="34px 24px 24px"></mj-image>
         <!--Logo End-->
         <!--Headline Start-->
         <mj-text color="#121417" font-size="24px" font-weight="800" font-family="Arial" padding="0 24px 16px">Headline</mj-text>
@@ -18,7 +18,14 @@
         <!--Footer Start-->
         <mj-divider border-color="#CDD3DD" border-width="1px" padding="40px 0 24px"></mj-divider>
         <mj-text align="center" font-size="14px" line-height="20px" letter-spacing=".3px" color="#6A7381" font-family="Arial" padding="0 24px 12px">© FlipFlops</mj-text>
-        <mj-text align="center" font-size="12px" line-height="20px" letter-spacing=".3px" color="#6A7381" font-family="Arial" padding="0 24px 24px"><a href="#" style="color: #6A7381">Unsubscribe</a> | <a href="#" style="color: #6A7381">Manage notifications</a></mj-text>
+        <mj-text align="center" font-size="12px" line-height="20px" letter-spacing=".3px" color="#6A7381" font-family="Arial" padding="0 24px 24px">
+          <!--Unsubscribe Start-->
+          <a href="#" style="color: #6A7381">Unsubscribe</a>
+          <!--Unsubscribe End-->
+          | 
+          <!--Manage Notifications Start-->
+          <a href="#" style="color: #6A7381">Manage notifications</a></mj-text>
+          <!--Manage Notifications End-->
         <!--Footer End-->
       </mj-column>
     </mj-section>
