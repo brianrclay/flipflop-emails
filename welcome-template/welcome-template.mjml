@@ -1,0 +1,48 @@
+<mjml>
+  <mj-body background-color="#F8F9FB">
+    <mj-section background-repeat="no-repeat" text-align="center" vertical-align="top" padding="0 0 0 0">
+      <mj-column padding="24px 0 0">
+      <mj-divider border-color="#0070C0" padding="0"></mj-divider>
+        <mj-image align="center" border="none" padding="0" src="https://flipflop-emails.netlify.app/images/welcome-header.png" target="_blank" title="image of app" href="#" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column background-color="#0070C0" border-radius="0">
+        <!--Headline Start-->
+        <mj-text align="center" color="#ffffff" font-size="24px" font-weight="800" font-family="Arial" padding="0 24px 16px">Welcome to FlipFlops!</mj-text>
+        <!--Headline End-->
+        <!--Body Text Start-->
+        <mj-text align="center" font-size="14px" line-height="20px" letter-spacing=".3px" color="#ffffff" font-family="Arial" padding="0 24px 24px">Things are about to get a lot more tasty.</mj-text>
+        <!--Body Text End-->
+        <!--CTA Button Start-->
+        <mj-button href="#" align="center" padding="0 24px 40px" border-radius="4px" background-color="#ffffff" color="#0070C0" line-height="20px" font-size="16px" font-family="Arial" font-weight="bold">Find food near you</mj-button>
+        <!--CTA Button End-->
+      </mj-column>
+    </mj-section>
+    <mj-section background-repeat="no-repeat" text-align="center" vertical-align="top" padding="0 0 0 0">
+      <mj-column padding="0 0 0 0">
+        <mj-image align="center" border="none" padding="0" src="https://flipflop-emails.netlify.app/images/instagram.png" target="_blank" title="image of app" href="#" width="600px"></mj-image>
+        <mj-text align="center" color="#121417" font-size="20px" line-height="32px" font-family="Arial" padding="32px 24px 24px">Follow us on Instagram for sweet deals!</mj-text>
+        <!-- Instagram CTA Start -->
+        <mj-button href="#" align="center" padding="0 24px 0" border-radius="4px" background-color="#0070C0" color="#ffffff" line-height="20px" font-size="16px" font-family="Arial" font-weight="bold">Follow</mj-button>
+        <!-- Instagram CTA End -->
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 24px">
+      <mj-column padding="0">
+        <!--Footer Start-->
+        <mj-divider border-color="#CDD3DD" border-width="1px" padding="40px 0 24px"></mj-divider>
+        <mj-text align="center" font-size="14px" line-height="20px" letter-spacing=".3px" color="#6A7381" font-family="Arial" padding="0 24px 12px">© FlipFlops</mj-text>
+        <mj-text align="center" font-size="12px" line-height="20px" letter-spacing=".3px" color="#6A7381" font-family="Arial" padding="0 24px 24px">
+          <!--Unsubscribe Start-->
+          <a href="#" style="color: #6A7381">Unsubscribe</a>
+          <!--Unsubscribe End-->
+          |
+          <!--Manage Notifications Start-->
+          <a href="#" style="color: #6A7381">Manage notifications</a></mj-text>
+        <!--Manage Notifications End-->
+        <!--Footer End-->
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
