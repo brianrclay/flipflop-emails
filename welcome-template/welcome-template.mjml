@@ -3,7 +3,9 @@
     <mj-section background-repeat="no-repeat" text-align="center" vertical-align="top" padding="0 0 0 0">
       <mj-column padding="24px 0 0">
       <mj-divider border-color="#0070C0" padding="0"></mj-divider>
+        <!-- Header image start -->
         <mj-image align="center" border="none" padding="0" src="https://flipflop-emails.netlify.app/images/welcome-header.png" target="_blank" title="image of app" href="#" width="600px"></mj-image>
+        <!-- Header image end -->
       </mj-column>
     </mj-section>
     <mj-section padding="0">
@@ -21,7 +23,9 @@
     </mj-section>
     <mj-section background-repeat="no-repeat" text-align="center" vertical-align="top" padding="0 0 0 0">
       <mj-column padding="0 0 0 0">
+        <!-- Instagram image start -->
         <mj-image align="center" border="none" padding="0" src="https://flipflop-emails.netlify.app/images/instagram.png" target="_blank" title="image of app" href="#" width="600px"></mj-image>
+        <!-- Instagram image end -->
         <mj-text align="center" color="#121417" font-size="20px" line-height="32px" font-family="Arial" padding="32px 24px 24px">Follow us on Instagram for sweet deals!</mj-text>
         <!-- Instagram CTA Start -->
         <mj-button href="#" align="center" padding="0 24px 0" border-radius="4px" background-color="#0070C0" color="#ffffff" line-height="20px" font-size="16px" font-family="Arial" font-weight="bold">Follow</mj-button>
